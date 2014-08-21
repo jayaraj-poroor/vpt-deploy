@@ -1,0 +1,1 @@
+.\bat\stopService.bat

@@ -1,0 +1,566 @@
+ Volume in drive C is Windows8_OS
+ Volume Serial Number is 2256-3AA2
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based
+
+21-08-2014  00:30    <DIR>          .
+21-08-2014  00:30    <DIR>          ..
+21-08-2014  00:28    <DIR>          bat
+21-08-2014  00:28    <DIR>          bin
+21-08-2014  00:28    <DIR>          build
+21-08-2014  00:28    <DIR>          conf
+20-08-2014  10:23                48 configure.bat
+20-08-2014  10:23                51 configure.sh
+21-08-2014  00:30                 0 directory-listing.txt
+21-08-2014  00:28    <DIR>          doc
+20-08-2014  10:19                38 install_service.bat
+20-08-2014  10:19                46 install_service.sh
+21-08-2014  00:28    <DIR>          lib
+21-08-2014  00:28    <DIR>          log
+20-08-2014  10:23                54 run_agent.bat
+20-08-2014  10:23                57 run_agent.sh
+21-08-2014  00:28    <DIR>          scripts
+02-08-2014  22:29                22 start_service.bat
+12-08-2014  18:53                36 start_service.sh
+02-08-2014  22:31                21 stop_service.bat
+12-08-2014  18:53                35 stop_service.sh
+21-08-2014  00:28    <DIR>          templates
+21-08-2014  00:28    <DIR>          tmp
+20-08-2014  10:23                27 uninstall_service.bat
+12-08-2014  18:53                38 uninstall_service.sh
+21-08-2014  00:28    <DIR>          vpt
+20-08-2014  10:18           660,931 VPTInstaller-2.0.jar
+21-08-2014  00:28    <DIR>          webapps
+31-07-2014  09:41           830,979 wrapper.jar
+31-07-2014  09:41            43,989 wrapperApp.jar
+31-07-2014  09:41                91 yajsw.policy.txt
+              17 File(s)      1,536,463 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\bat
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          demos
+31-07-2014  09:41               173 genConfig.bat
+31-07-2014  09:41                68 installService.bat
+31-07-2014  09:41                66 queryService.bat
+31-07-2014  09:41                64 runConsole.bat
+31-07-2014  09:41                58 runConsoleW.bat
+31-07-2014  09:41               261 runHelloWorld.bat
+31-07-2014  09:41               148 runServicesManagerClient.bat
+31-07-2014  09:41               158 runServicesManagerServer.bat
+31-07-2014  09:41             1,171 setenv.bat
+31-07-2014  09:41                68 startService.bat
+31-07-2014  09:41                68 stopService.bat
+31-07-2014  09:41                68 systemTrayIcon.bat
+31-07-2014  09:41                46 sytemTrayIconW.bat
+31-07-2014  09:41                62 uninstallService.bat
+31-07-2014  09:41               172 wrapper.bat
+31-07-2014  09:41               112 wrapperW.bat
+              16 File(s)          2,763 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\bat\demos
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41                 0 installServicesManagerServer.bat
+31-07-2014  09:41               240 jnlpDemo.bat
+31-07-2014  09:41               250 remoteLaunchTomcatDemo.bat
+31-07-2014  09:41               164 runScript.bat
+31-07-2014  09:41                79 testMail.bat
+               5 File(s)            733 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\bin
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          demos
+07-08-2014  11:12               912 genConfig.sh
+07-08-2014  11:12               736 installDaemon.sh
+07-08-2014  11:12               793 installDaemonNoPriv.sh
+07-08-2014  11:12               827 queryDaemon.sh
+07-08-2014  11:12               786 runConsole.sh
+07-08-2014  11:12               586 runHelloWorld.sh
+07-08-2014  11:12             1,188 setenv.sh
+07-08-2014  11:12               810 startDaemon.sh
+07-08-2014  11:12               791 startDaemonNoPriv.sh
+07-08-2014  11:12               808 stopDaemon.sh
+07-08-2014  11:12               790 stopDaemonNoPriv.sh
+07-08-2014  11:12               802 systemTrayIcon.sh
+07-08-2014  11:12               819 uninstallDaemon.sh
+07-08-2014  11:12               792 uninstallDaemonNoPriv.sh
+07-08-2014  11:12               291 wrapper.sh
+              15 File(s)         11,731 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\bin\demos
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               912 jnlpDemo.sh
+31-07-2014  09:41               929 remoteLaunchTomcatDemo.sh
+               2 File(s)          1,841 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          abeille
+21-08-2014  00:28    <DIR>          gradle
+31-07-2014  09:41             1,969 MANIFEST.MF
+31-07-2014  09:41               682 ReadMe.txt
+21-08-2014  00:28    <DIR>          ws
+               2 File(s)          2,651 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\abeille
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           185,644 ConsoleForm.xml
+31-07-2014  09:41               142 ReadMe.txt
+31-07-2014  09:41            31,306 srvmgr_install_dialog.xml
+31-07-2014  09:41            29,259 srvmgr_newHostDialog.xml
+31-07-2014  09:41            29,680 srvmgr_reload_console_dialog.xml
+31-07-2014  09:41            20,495 srvmgr_uninstall_dialog.xml
+31-07-2014  09:41            56,209 srvmgr_window.xml
+31-07-2014  09:41            68,485 WSForm.xml
+               8 File(s)        421,220 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          ahessian
+31-07-2014  09:41             1,582 build.gradle
+21-08-2014  00:28    <DIR>          gradle
+31-07-2014  09:41             2,610 gradlew.bat
+31-07-2014  09:41             5,906 gradlew.sh
+21-08-2014  00:28    <DIR>          hessian4
+31-07-2014  09:41             1,018 readMe.txt
+31-07-2014  09:41               102 settings.gradle
+21-08-2014  00:28    <DIR>          srvmgr
+21-08-2014  00:28    <DIR>          wrapper
+21-08-2014  00:28    <DIR>          wrapper-app
+               5 File(s)         11,218 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\ahessian
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               542 build.gradle
+               1 File(s)            542 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\gradle
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\gradle\wrapper
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41            12,597 gradle-wrapper.jar
+31-07-2014  09:41               255 gradle-wrapper.properties
+               2 File(s)         12,852 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\hessian4
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               461 build.gradle
+               1 File(s)            461 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\srvmgr
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             1,381 build.gradle
+               1 File(s)          1,381 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\wrapper
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             2,809 build.gradle
+               1 File(s)          2,809 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\gradle\wrapper-app
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             1,405 build.gradle
+               1 File(s)          1,405 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\build\ws
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41                95 genKeyStore.bat
+31-07-2014  09:41             1,289 jaxb.keys
+31-07-2014  09:41               141 ReadMe.txt
+31-07-2014  09:41               103 sign.bat
+               4 File(s)          1,628 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\conf
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          samples
+20-08-2014  10:07               837 wrapper.conf
+31-07-2014  09:41            10,705 wrapper.conf.default
+31-07-2014  09:41                53 wrapper.javaws.conf
+               3 File(s)         11,595 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\conf\samples
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          luceneNutch
+31-07-2014  09:41               252 ReadMe.txt
+31-07-2014  09:41             5,518 tomcat.conf
+31-07-2014  09:41               422 tomcat.stop.conf
+31-07-2014  09:41               738 wrapper.activemq.conf
+31-07-2014  09:41             7,910 wrapper.derby.conf
+31-07-2014  09:41               487 wrapper.derby.stop.conf
+31-07-2014  09:41               722 wrapper.equinox.conf
+31-07-2014  09:41             1,585 wrapper.groovy_helloworld.conf
+31-07-2014  09:41               383 wrapper.jar.conf
+31-07-2014  09:41               645 wrapper.jboss.conf
+31-07-2014  09:41            10,995 wrapper.jboss7.conf
+31-07-2014  09:41               891 wrapper.jetty.conf
+31-07-2014  09:41             2,576 wrapper.oracle.odi.conf
+31-07-2014  09:41             4,993 wrapper.ping.conf
+31-07-2014  09:41             6,043 wrapper.wso2_cep.conf
+              15 File(s)         44,160 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\conf\samples\luceneNutch
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               173 ReadMe.txt
+31-07-2014  09:41               905 wrapper.nutch_crawl.conf
+31-07-2014  09:41               169 wrapper.nutch_crawl_groovy.conf
+31-07-2014  09:41               180 wrapper.nutch_recrawl_groovy.conf
+31-07-2014  09:41               170 wrapper.nutch_recrawl_solr_groovy.conf
+31-07-2014  09:41             1,300 wrapper.nutch_tomcat.conf
+               6 File(s)          2,897 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\doc
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             1,687 application loading.html
+31-07-2014  09:41            69,607 classLoading.JPG
+31-07-2014  09:41           259,376 index.html
+31-07-2014  09:41            23,602 Migrating from JSW.html
+31-07-2014  09:41            78,574 ServicesManager.JPG
+31-07-2014  09:41            32,059 WebStart.JPG
+31-07-2014  09:41           276,352 YAJSW Configuration Parameters.html
+31-07-2014  09:41           118,640 YAJSW-Changes.html
+               8 File(s)        859,897 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          core
+21-08-2014  00:28    <DIR>          extended
+21-08-2014  00:28    <DIR>          groovy
+               0 File(s)              0 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          commons
+21-08-2014  00:28    <DIR>          groovy
+21-08-2014  00:28    <DIR>          jna
+21-08-2014  00:28    <DIR>          netty
+31-07-2014  09:41               543 ReadMe.txt
+21-08-2014  00:28    <DIR>          regex
+21-08-2014  00:28    <DIR>          yajsw
+               1 File(s)            543 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\commons
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           702,066 commons-cli-2-SNAPSHOT.jar
+31-07-2014  09:41           571,259 commons-collections-3.2.jar
+31-07-2014  09:41           354,491 commons-configuration-1.8.jar
+31-07-2014  09:41            83,613 commons-io-1.3.1.jar
+31-07-2014  09:41           261,809 commons-lang-2.4.jar
+31-07-2014  09:41            52,915 commons-logging-1.1.jar
+31-07-2014  09:41           415,578 commons-vfs2-2.0.jar
+               7 File(s)      2,441,731 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\groovy
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41         6,167,392 groovy-all-1.8.6.jar
+               1 File(s)      6,167,392 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\jna
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41         1,907,070 jna-3.4.1.jar
+31-07-2014  09:41           916,366 platform-3.4.1.jar
+               2 File(s)      2,823,436 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\netty
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41         1,206,119 netty-3.6.6.Final.jar
+               1 File(s)      1,206,119 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\regex
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           100,722 jrexx-1.1.1.jar
+               1 File(s)        100,722 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\core\yajsw
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           226,847 ahessian.jar
+               1 File(s)        226,847 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          abeille
+21-08-2014  00:28    <DIR>          commons
+21-08-2014  00:28    <DIR>          glazedlists
+21-08-2014  00:28    <DIR>          jgoodies
+21-08-2014  00:28    <DIR>          quartz
+31-07-2014  09:41               387 ReadMe.txt
+21-08-2014  00:28    <DIR>          velocity
+21-08-2014  00:28    <DIR>          vfs-webdav
+21-08-2014  00:28    <DIR>          yajsw
+               1 File(s)            387 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\abeille
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           454,530 formsrt.jar
+               1 File(s)        454,530 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\commons
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41            46,725 commons-codec-1.3.jar
+31-07-2014  09:41           279,781 commons-httpclient-3.0.1.jar
+31-07-2014  09:41           180,792 commons-net-1.4.1.jar
+               3 File(s)        507,298 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\glazedlists
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           231,891 commons-beanutils-1.8.2.jar
+31-07-2014  09:41           838,393 glazedlists-1.8.0_java15.jar
+               2 File(s)      1,070,284 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\jgoodies
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           108,132 forms-1.2.0.jar
+               1 File(s)        108,132 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\quartz
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           444,283 quartz-1.8.0.jar
+               1 File(s)        444,283 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\velocity
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           449,505 velocity-1.7.jar
+               1 File(s)        449,505 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\vfs-webdav
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41         3,378,270 jackrabbit-webdav-1.5.6.jar
+31-07-2014  09:41            16,591 slf4j-api-1.5.0.jar
+31-07-2014  09:41             8,641 slf4j-jdk14-1.5.0.jar
+31-07-2014  09:41         1,229,289 xercesImpl.jar
+               4 File(s)      4,632,791 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\extended\yajsw
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           262,007 hessian4.jar
+31-07-2014  09:41            85,249 srvmgr.jar
+               2 File(s)        347,256 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\groovy
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+21-08-2014  00:28    <DIR>          joda
+21-08-2014  00:28    <DIR>          mail
+31-07-2014  09:41               284 ReadMe.txt
+21-08-2014  00:28    <DIR>          snmp
+               1 File(s)            284 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\groovy\joda
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           534,827 joda-time-1.6.jar
+               1 File(s)        534,827 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\groovy\mail
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41            56,290 activation.jar
+31-07-2014  09:41           371,264 mail.jar
+               2 File(s)        427,554 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\lib\groovy\snmp
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41           370,448 SNMP4J.jar
+               1 File(s)        370,448 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\log
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41                 0 .gitignore
+               1 File(s)              0 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\scripts
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               627 cluster.gv
+31-07-2014  09:41             2,722 commandCondition.gv
+31-07-2014  09:41               657 decryptor.gv
+21-08-2014  00:28    <DIR>          equinox
+21-08-2014  00:28    <DIR>          groovy
+31-07-2014  09:41               287 linearRestartDelay.gv
+31-07-2014  09:41               252 mapNetworkDrive.gv
+31-07-2014  09:41             1,607 maxDuration.gv
+31-07-2014  09:41             1,938 maxStartup.gv
+21-08-2014  00:28    <DIR>          nutch
+31-07-2014  09:41               932 ReadMe.txt
+31-07-2014  09:41             2,064 sendMail.gv
+31-07-2014  09:41             1,191 setenv.gv
+31-07-2014  09:41             1,246 snmpTrap.gv
+31-07-2014  09:41               346 threadDump.gv
+31-07-2014  09:41             1,837 timeCondition.gv
+31-07-2014  09:41             1,316 trayColor.gv
+31-07-2014  09:41               704 trayMessage.gv
+31-07-2014  09:41             2,765 vfsCommandCondition.gv
+21-08-2014  00:28    <DIR>          wso2
+              16 File(s)         20,491 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\scripts\equinox
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               158 equinoxShutdown.gv
+               1 File(s)            158 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\scripts\groovy
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               280 helloworld.gv
+31-07-2014  09:41               110 ReadMe.txt
+               2 File(s)            390 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\scripts\nutch
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             5,379 nutch_base.gv
+31-07-2014  09:41               275 nutch_crawl.gv
+31-07-2014  09:41             3,602 nutch_recrawl.gv
+31-07-2014  09:41             1,680 nutch_solr.gv
+31-07-2014  09:41               276 ReadMe.txt
+               5 File(s)         11,212 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\scripts\wso2
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               408 wso2_shutdown.gv
+               1 File(s)            408 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\templates
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41             1,241 daemon.vm
+31-07-2014  09:41               484 launchd.plist.vm
+               2 File(s)          1,725 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\tmp
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41                 0 .gitignore
+21-08-2014  00:28    <DIR>          jna-Harikrishnan
+               1 File(s)              0 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\tmp\jna-Harikrishnan
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+06-08-2014  22:52           200,192 jna8468005286483821833.dll
+06-08-2014  22:52                 0 jna8468005286483821833.dll.x
+               2 File(s)        200,192 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\vpt
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+20-08-2014  11:03         2,407,849 agent-2.0b.jar
+20-08-2014  12:48               283 agent.cfg
+20-08-2014  11:04             1,228 logback.xml
+               3 File(s)      2,409,360 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\webapps
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               971 ReadMe.txt
+21-08-2014  00:28    <DIR>          yajsw
+               1 File(s)            971 bytes
+
+ Directory of C:\shelloid-open\vpt-agent\deploy\yajsw-based\webapps\yajsw
+
+21-08-2014  00:28    <DIR>          .
+21-08-2014  00:28    <DIR>          ..
+31-07-2014  09:41               346 serviceManagerClient.conf
+31-07-2014  09:41             1,006 serviceManagerClient.jnlp
+31-07-2014  09:41               772 serviceManagerServer.conf
+31-07-2014  09:41             1,008 serviceManagerServer.jnlp
+31-07-2014  09:41             1,382 wrapper.conf
+31-07-2014  09:41            62,173 wrapperWS.jar
+31-07-2014  09:41               995 yajsw.jnlp
+               7 File(s)         67,682 bytes
+
+     Total Files Listed:
+             190 File(s)     27,955,205 bytes
+             158 Dir(s)  879,784,636,416 bytes free
